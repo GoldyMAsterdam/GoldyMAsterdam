@@ -26,7 +26,7 @@
           I design and build websites with Vite, React and Tailwind.
 ```
 
-I'm Goldy, 18. I study software development, and next to my studies I build websites for clients.
+I'm Goldy, 18. I study software development, and next to my studies I build websites for clients, & occasionally programs/apps using Rust.
 
 For [KeurVeilig](https://keurveilig.nl), a tool inspection company working across the Netherlands, I built the site, the price calculator and the quote flow. I'm still working on it.
 
